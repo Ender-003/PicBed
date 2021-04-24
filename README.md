@@ -1,0 +1,2 @@
+# PicBed
+For my blog
